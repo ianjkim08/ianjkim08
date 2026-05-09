@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/ianjkim08">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=999999&color=000000&center=true&vCenter=true&width=600&height=70&lines=Ian+Kim" />
-  </a>
+  <span style="font-family: 'Fira Code', monospace; font-size: 38px; color: #000000;">
+    Ian Kim
+  </span>
 </p>
 
 <p align="center">
