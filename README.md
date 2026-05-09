@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Ian%20Kim&fontSize=38&fontColor=000000&font=Fira%20Code" />
+  <a href="https://github.com/ianjkim08">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=999999&color=000000&center=true&vCenter=true&width=600&height=70&lines=Ian+Kim" />
+  </a>
 </p>
 
 <p align="center">
