@@ -1,7 +1,5 @@
 <p align="center">
-  <span style="font-family: 'Fira Code', monospace; font-size: 38px; color: #000000;">
-    Ian Kim
-  </span>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Ian%20Kim&fontSize=38&fontColor=000000&font=Fira%20Code" />
 </p>
 
 <p align="center">
